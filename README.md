@@ -1,1 +1,2 @@
-# Embedded_C_MSP430F5529
+# MSP430F5529_Function_Generator
+
